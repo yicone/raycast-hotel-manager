@@ -2,6 +2,7 @@
   "name": "hotel-manager",
   "title": "Hotel Manager",
   "description": "Manage Hotel apps",
+  "version": "1.0.0",
   "icon": "icon.png",
   "author": "yicone",
   "categories": [
