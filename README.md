@@ -6,7 +6,7 @@ Manage your [Hotel](https://github.com/typicode/hotel) apps directly from Raycas
 
 - **List Apps**: View all your Hotel apps and their status.
 - **Start/Stop**: Toggle apps on/off.
-- **Open in Browser**: Quickly open apps via configured TLD (default `.localhost`).
+- **Open in Browser**: Quickly open apps via configured TLD (default `.local`).
 - **Open Direct URL**: Open apps via direct IP:Port (Option + Enter).
 - **Copy URL**: Copy the app URL to clipboard (Cmd + C).
 - **Open Project Folder**: Open the app's directory in Finder (Ctrl + Enter).
@@ -26,7 +26,7 @@ Manage your [Hotel](https://github.com/typicode/hotel) apps directly from Raycas
 
 ## Configuration
 
-The extension assumes Hotel is running on `http://localhost:2000`. It automatically detects your TLD from `~/.hotel/conf.json` (defaults to `.localhost`).
+The extension assumes Hotel is running on `http://localhost:2000`. It automatically detects your TLD from `~/.hotel/conf.json` (defaults to `.local`).
 
 ## Credits
 

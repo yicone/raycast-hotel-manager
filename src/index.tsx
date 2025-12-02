@@ -45,7 +45,7 @@ function getHotelTld(): string {
   }
 
   // 3. Default
-  return "localhost";
+  return "local";
 }
 
 export default function Command() {
