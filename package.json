@@ -3,7 +3,11 @@
   "title": "Hotel Manager",
   "description": "Manage Hotel apps",
   "icon": "icon.png",
-  "author": "Antigravity",
+  "author": "yicone",
+  "categories": [
+    "Developer Tools",
+    "System"
+  ],
   "license": "MIT",
   "commands": [
     {
