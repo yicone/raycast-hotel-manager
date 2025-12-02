@@ -27,3 +27,7 @@ Manage your [Hotel](https://github.com/typicode/hotel) apps directly from Raycas
 ## Configuration
 
 The extension assumes Hotel is running on `http://localhost:2000`. It automatically detects your TLD from `~/.hotel/conf.json` (defaults to `.localhost`).
+
+## Credits
+
+Inspired by [alfred-hotel](https://github.com/exah/alfred-hotel).
