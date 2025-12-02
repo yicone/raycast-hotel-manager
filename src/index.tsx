@@ -107,7 +107,7 @@ export default function Command() {
                   <ActionPanel.Section>
                     <Action.OpenInBrowser
                       url={appUrl}
-                      title="Open in Browser (.localhost)"
+                      title={`Open in Browser (${tld})`}
                     />
                     {isRunning && localUrl && (
                       <Action.OpenInBrowser
